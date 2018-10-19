@@ -14,7 +14,7 @@
 	<!-- 项目中的公共属性值 -->
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring.version>4.0.2.RELEASE</spring.version>
+		<spring.version>4.3.18.RELEASE</spring.version>
 		<hibernate.version>4.3.4.Final</hibernate.version>
 	</properties>
 
